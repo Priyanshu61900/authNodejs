@@ -1,3 +1,5 @@
+ACCESS THE APPLICATION HERE : https://authnodejs-t9ok.onrender.com/
+
 This Node.js application provides a secure authentication system allowing users to sign up and sign in with ease. It leverages the power of Node.js along with Express.js for server-side functionality and MongoDB for database management.
 # Node.js Authentication Application
 
